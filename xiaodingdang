@@ -878,7 +878,7 @@ URL-REGEX,^https?+:\/\/ih2\.ireader\.com\/zycl\/api\/ad\/,REJECT
 ^https?:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule - reject
 ^https?:\/\/cache\.changjingyi\.cn - reject-img
 ^https?:\/\/cache\.gclick\.cn - reject-img
-^https?:\/\/cap\.caocaokeji\.cn\/advert-bss\/ - reject
+#^https?:\/\/cap\.caocaokeji\.cn\/advert-bss\/ - reject
 ^https?:\/\/capi.mwee.cn/app-api/V\d+/app/(ad|getstartad) - reject
 ^https?:\/\/capi\.douyucdn\.cn\/api\/ios_app\/check_update - reject-img
 ^https?:\/\/capi\.douyucdn\.cn\/api\/v1\/getStartSend?client_sys=ios - reject-img
