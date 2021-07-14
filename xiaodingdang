@@ -187,7 +187,7 @@ URL-REGEX,^https?+:\/\/api\.chelaile\.net\.cn\/adpub\/,REJECT
 URL-REGEX,^https?+:\/\/api\.chelaile\.net\.cn\/goocity\/advert\/,REJECT
 URL-REGEX,^https?+:\/\/pic\d\.chelaile\.net\.cn\/adv\/,REJECT
 # > 曹操出行
-URL-REGEX,^https?+:\/\/cap\.caocaokeji\.cn\/advert-bss\/,REJECT
+#URL-REGEX,^https?+:\/\/cap\.caocaokeji\.cn\/advert-bss\/,REJECT
 # > 财经
 URL-REGEX,^https?+:\/\/api\.caijingmobile\.com\/ad(?:vert)?+\/,REJECT
 # > 超级课程表
